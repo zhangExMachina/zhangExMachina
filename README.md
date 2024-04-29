@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Meiling - @zhangExMachina
+- 👀 I’m interested in quantum technologies, real-time and embedded software
+- 🌱 I’m currently learning about everything quantum computing!
+- ⚡ Fun fact: I'm a totally committed crossfit nut!
